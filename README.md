@@ -35,4 +35,4 @@ public — no tutorials, no link dumps.
 
 ## Currently
 
-Open to conversations | AI-native PM opportunities [LinkedIn](https://linkedin.com/in/udayputcha)
+PM @ Meta | Building AI quality frameworks and eval systems in public · [LinkedIn](https://linkedin.com/in/udayputcha)
