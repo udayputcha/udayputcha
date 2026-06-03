@@ -29,7 +29,7 @@ public — no tutorials, no link dumps.
 
 ## Background
 
-- **Meta / Instagram** (2020–2026) — Edits app (0→1, million+ professional creators) ·
+- **Meta / Instagram** (2020–Present) — Edits app (0→1, million+ professional creators) ·
   Creation platform (Stories/Reels) · AI ads delivery
 - **Apple** (2013–2020) — iPhone · Apple Store App · iOS consumer + web ecommerce
 
