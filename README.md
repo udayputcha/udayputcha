@@ -35,4 +35,4 @@ public — no tutorials, no link dumps.
 
 ## Currently
 
-Open to conversations | AI-native PM opportunities
+Open to conversations | AI-native PM opportunities [LinkedIn](https://linkedin.com/in/udayputcha)
