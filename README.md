@@ -1,68 +1,38 @@
-# Hey, I'm Uday 👋
+# Uday Putcha
 
-**AI-native Product Manager** — I build systems where AI does the heavy lifting so humans can do the meaningful work.
+Six years at Instagram, both sides of the platform — the creation
+layer (camera tools, editing, the Edits app) and the AI-powered
+delivery systems behind billions of daily ad impressions. I designed
+the measurement framework that tracked output quality across everything
+creators could do on the platform.
 
-Currently: Product @ Instagram | Previously: Apple  
-Focus: AI-first product experiences, full-stack prototyping, and building in public.
+The gap between what AI generates in a demo and what a creator can
+actually rely on every day isn't a model problem. It's a product
+problem. I've built on the reliable side of that gap.
 
----
-
-## What I Build
-
-- 🤖 **AI workflows** that replace manual overhead — second brains, meeting copilots, research pipelines
-- 🧪 **Prototypes** that go from idea → working product in hours, not weeks
-- 📦 **Tools for PMs** who want to operate like engineers
-
-> I'm not just using AI to boost my own productivity.  
-> I'm building systems that make entire teams better at working with AI.
+The companies closing that gap define the next decade of creation.
+That's where I'm building.
 
 ---
 
-## Current Projects
+## What I'm Building
 
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| 🧠 [Personal Second Brain](https://github.com/udayputcha) | Obsidian vault + Claude integration for knowledge compounding | Obsidian, Claude, Google Drive |
-| 🛠️ AI PM Toolkit | Prompts, workflows, and Claude Code setups for PMs | Claude Code, MCP |
-
----
+Working at the intersection of AI creative quality, eval design, and
+agentic product systems. Each repo here is original thinking made
+public — no tutorials, no link dumps.
 
 ## How I Think
 
-**Product philosophy:**
-- Outcomes over features. Always.
-- The smallest move that creates the biggest shift.
-- Ship → learn → recalibrate. Faster than anyone else.
-
-**On AI:**
-- Judgment > jargon. Knowing *when not* to use AI is the skill.
-- Full-stack builder era is here. PMs who can't build will be replaced by PMs who can.
+- Judgment over jargon. Knowing when *not* to use AI is the skill.
 - The best AI products have taste. Taste is the moat.
-
----
+- The smallest move that creates the biggest shift.
 
 ## Background
 
-- 🏢 Product @ **Instagram** (Meta) — consumer AI experiences at scale
-- 🍎 Previously @ **Apple** — product at the intersection of hardware and software
-- 📍 San Francisco Bay Area
+- **Meta / Instagram** (2020–2026) — Edits app (0→1, million+ professional creators) ·
+  Creation platform (Stories/Reels) · AI ads delivery
+- **Apple** (2013–2020) — iPhone · Apple Store App · iOS consumer + web ecommerce
 
----
+## Currently
 
-## Currently Learning
-
-- Claude Code for rapid prototyping
-- RAG pipelines + eval frameworks
-- Multi-agent workflows for product teams
-
----
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/udayputcha)
-- 📬 Reach out if you're building in the AI PM / full-stack builder space
-
----
-
-*"The best opportunities don't come to people who chase them.  
-They come to people who are so good they can't be ignored."*
+Open to conversations | AI-native PM opportunities
